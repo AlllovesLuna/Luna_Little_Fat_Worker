@@ -19,7 +19,6 @@ def get_page_index(url):
 url='https://www.taptap.com/app/200000'
 html = get_page_index(url)
 
-
 luna=pd.DataFrame(columns = ['app'])
 
 url='https://www.taptap.com/app/{}'
