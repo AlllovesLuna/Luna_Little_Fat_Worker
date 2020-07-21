@@ -1,1 +1,4 @@
-Hello~
+This File is used to help Luna get data from TapTap and include two files
+
+check.py check whether app is exist. Because the app id on taptap is nonsequence and sometimes even bigger like 200,000
+TapTap.py get app detail info from taptap
